@@ -1,0 +1,28 @@
+{
+  "name": "weatherjs-promise",
+  "version": "1.0.0",
+  "description": "Promise wrapper for weather-js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lingledev",
+  "license": "ISC",
+  "dependencies": {
+    "weather-js": "^2.0.0"
+  },
+  "keywords": [
+    "weather-js",
+    "weather",
+    "promise"
+  ],
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LingleDev/Weatherjs-Promise.git"
+  },
+  "bugs": {
+    "url": "https://github.com/LingleDev/Weatherjs-Promise/issues"
+  },
+  "homepage": "https://github.com/LingleDev/Weatherjs-Promise#readme"
+}
